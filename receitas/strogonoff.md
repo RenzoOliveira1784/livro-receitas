@@ -1,4 +1,4 @@
-#Strognoff de Frango:
+# Strognoff de Frango:
 
-###Ingredientes
-*peito de frango
+### Ingredientes
+- peito de frango
